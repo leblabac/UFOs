@@ -6,11 +6,13 @@ The task was to display a table organizing UFO data stored as a JavaScript array
 
 ## Results:
 ### Welcome to the UFO Sightings Site!
+![img1](https://user-images.githubusercontent.com/87709841/143980824-b588370c-fc0d-4594-9269-1aaea71210f8.PNG)
 
 ### How the filters appear when first landing on the page:
-
+![img2](https://user-images.githubusercontent.com/87709841/143980841-1963f631-c60c-4d6c-85ec-9f57970bab6d.PNG)
 
 ### How the filters appear after being used: 
+![img3](https://user-images.githubusercontent.com/87709841/143980852-f680224e-d414-49d0-9de7-e8d1a460008e.PNG)
 
 
 ## Summary: 
